@@ -25,6 +25,10 @@ const messages = [
     {
         input: "¿Con qué está hecha tu página?",
         answer: "Mi página web está hecha con Astro. Antes estaba hecha con HTML sin ninguna librería pero recientemente la he pasado a AstroJS. Tengo un blog sobre ello https://erik.pages.dev/articulo/cambio-a-astro"
+    },
+    {
+        input: "¿Cuantos proyectos has realizado?",
+        answer: "He realizado más de 15 proyectos. Entre ellos destaco 'AstroJS Wiki', WindfulCSS y Pywarp"
     }
 ]
 
